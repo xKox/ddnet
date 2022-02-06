@@ -812,7 +812,7 @@ Replay feature is disabled!
 == Funkcja odtwarzania jest wyłączona!
 
 Fat skins (DDFat)
-== Masne skiny (DDFat)
+== Grube skiny (DDFat)
 
 Grabs
 == Przechwycenia
@@ -1230,10 +1230,10 @@ Play
 == Graj
 
 The width of texture %s is not divisible by %d, or the height is not divisible by %d, which might cause visual bugs.
-== 
+== Szerokość tekstury %s nie jest podzielna przez %d lub wysokość nie jest podzielna przez %d, co może powodować błędy wizualne
 
 Are you sure that you want to disconnect and switch to a different server?
-== 
+== Czy na pewno chcesz się rozłączyć i przełączyć na inny serwer?
 
 AFR
 == 
@@ -1257,25 +1257,25 @@ CHN
 == 
 
 Getting server list from master server
-== 
+== Pobieranie listy serwerów z serwera głównego
 
 Refreshing...
-== 
+== Odświeżanie...
 
 Leak IP
-== 
+== Wyciek IP
 
 Settings file
-== 
+== Plik ustawień
 
 Config directory
-== 
+== Katalog konfiguracji
 
 Chat command
-== 
+== Polecenie czatu
 
 Dummy
-== 
+== Kukła
 
 Windowed
 == 
@@ -1290,25 +1290,25 @@ Desktop fullscreen
 == 
 
 Use modern OpenGL
-== 
+== Użyj nowoczesnego OpenGL
 
 Show client IDs
-== 
+== Pokaż ID klientów
 
 Kill Messages
-== 
+== Wiadomości śmierci
 
 Kill Message Normal Color
-== 
+== Normalny kolor wiadomości śmierci
 
 Kill Message Highlight Color
-== 
+== Podświetlenie wiadomości śmierci
 
 Laser Outline Color
-== 
+== Kolor krawędzi lasera
 
 Laser Inner Color
-== 
+== Kolor wnętrza lasera
 
 Hookline
 == 
@@ -1320,31 +1320,31 @@ Hookable
 == 
 
 Tee
-== 
+== Tee
 
 Preview
-== 
+== Podgląd
 
 Show local player's key presses
-== 
+== Pokaż naciśnięcia klawiszy lokalnego gracza
 
 Background
-== 
+== Tło
 
 Entities Background color
-== 
+== Kolor tła entites
 
 Regular Background Color
-== 
+== Domyślny kolor tła
 
 Run on join
-== 
+== Uruchom po dołączeniu
 
 Chat command (e.g. showall 1)
-== 
+== Polecenie czatu (np. showall 1)
 
 Discord
-== 
+== Discord
 
 https://ddnet.tw/discord
-== 
+== https://ddnet.tw/discord
